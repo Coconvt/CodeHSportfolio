@@ -49,6 +49,11 @@ img.img-rounded{
     height: 200px;
 }
 
+.hyperlink{
+    font-size: 30px;
+    color: #6D7993
+}
+
 
 /* Homepage styles*/
 .cover{
