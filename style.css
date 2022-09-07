@@ -54,6 +54,10 @@ img.img-rounded{
     color: #6D7993
 }
 
+th{
+    background-color: #96858F;
+}
+
 
 /* Homepage styles*/
 .cover{
