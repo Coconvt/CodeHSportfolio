@@ -66,3 +66,9 @@ th{
     background: url(https://www.publicdomainpictures.net/pictures/140000/t2/ark-texture-impasto-color-swirl-.jpg);
     background-size: cover;
 }
+
+.carousel-inner > .item > img {
+    min-width: 100%;
+    height: 500px;
+    display: block;
+}
